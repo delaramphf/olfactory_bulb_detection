@@ -1,4 +1,4 @@
-# OB_Detection
+# Olfactory Bulb Detection
 
 This project is based on the research paper:
 
